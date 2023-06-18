@@ -2,6 +2,12 @@
 `Hooks` <br>
 1. useState
 2. useEffect
+<br>
+
+`Fragment`<br>
+
+`ReactComponent` - SVG as ReactComponent - https://stackoverflow.com/questions/72192810/what-is-reactcomponent-and-where-does-it-come-from-when-importing-an-svg-in-reac
+
 # React Router
 `element vs component`<br>
   In React Router v6 we switched from using v5's <Route component> and <Route render> APIs to <Route element>. Why is that?
