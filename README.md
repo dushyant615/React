@@ -1,3 +1,13 @@
+# Javascript Topics
+`Arrays` <br>
+Array Methods:
+1. arr.pop()  – extracts an item from the end
+2. arr.push() - adds items to the end
+3. arr.unshift() – adds items to the beginning.
+4. arr.shift() – extracts an item from the beginning
+5. arr.splice(start[, deleteCount, elem1, ..., elemN]) - It modifies arr starting from the index start: removes deleteCount elements and then inserts elem1, ..., elemN at their place. Returns the array of removed elements.
+6. arr.slice([start], [end]) - It returns a new array copying to it all items from index start to end (not including end). Both start and end can be negative, in that case position from array end is assumed.
+7. arr.concat(arg1, arg2...)
 # React topics
 `Hooks` <br>
 1. useState
