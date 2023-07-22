@@ -8,6 +8,7 @@ Array Methods:
 5. arr.splice(start[, deleteCount, elem1, ..., elemN]) - It modifies arr starting from the index start: removes deleteCount elements and then inserts elem1, ..., elemN at their place. Returns the array of removed elements.
 6. arr.slice([start], [end]) - It returns a new array copying to it all items from index start to end (not including end). Both start and end can be negative, in that case position from array end is assumed.
 7. arr.concat(arg1, arg2...)
+
 # React topics
 `Hooks` <br>
 1. useState
@@ -34,3 +35,8 @@ Array Methods:
 `Outlet`<br>
   An <Outlet> should be used in parent route elements to render their child route elements. This allows nested UI to show up when child routes are rendered. If the     parent route matched exactly, it will render a child index route or nothing if there is no index route.<br>
   Reference: https://reactrouter.com/en/main/components/outlet
+
+  #SCSS Topics
+
+  `@mixin`<br>
+  `$variables`<br>
