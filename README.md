@@ -1,4 +1,9 @@
+# Pattern
+`observer` - https://www.patterns.dev/posts
+
 # Javascript Topics
+`Debouncing`<br>
+`throttling`<br>
 `Arrays` <br>
 Array Methods:
 1. arr.pop()  – extracts an item from the end
