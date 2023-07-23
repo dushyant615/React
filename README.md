@@ -19,6 +19,8 @@ Array Methods:
 
 `ReactComponent` - SVG as ReactComponent - https://stackoverflow.com/questions/72192810/what-is-reactcomponent-and-where-does-it-come-from-when-importing-an-svg-in-reac
 
+`prop drilling` - passing data to the child/grandchild component from parent (any level).
+`React Context API` - https://react.dev/learn/passing-data-deeply-with-context
 # React Router
 `element vs component`<br>
   In React Router v6 we switched from using v5's <Route component> and <Route render> APIs to <Route element>. Why is that?
@@ -36,6 +38,9 @@ Array Methods:
   An <Outlet> should be used in parent route elements to render their child route elements. This allows nested UI to show up when child routes are rendered. If the     parent route matched exactly, it will render a child index route or nothing if there is no index route.<br>
   Reference: https://reactrouter.com/en/main/components/outlet
 
+`Link`<br>
+`Routes`<br>
+`Route`<br>
   # SCSS Topics
 
   `@mixin`<br>
