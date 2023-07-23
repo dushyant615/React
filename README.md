@@ -2,6 +2,8 @@
 `observer` - https://www.patterns.dev/posts
 
 # Javascript Topics
+`Promise`<br>
+`async await`<br>
 `Debouncing`<br>
 `throttling`<br>
 `Arrays` <br>
