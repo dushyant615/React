@@ -20,6 +20,7 @@ Array Methods:
 `Hooks` <br>
 1. useState
 2. useEffect
+3. useContext & createContext
 <br>
 
 `Fragment`<br>
