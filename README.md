@@ -42,7 +42,7 @@ Array Methods:
   Reference: https://reactrouter.com/en/main/start/faq#why-does-route-have-an-element-prop-instead-of-render-or-component
   
 `Outlet`<br>
-  An <Outlet> should be used in parent route elements to render their child route elements. This allows nested UI to show up when child routes are rendered. If the     parent route matched exactly, it will render a child index route or nothing if there is no index route.<br>
+  An `<Outlet>` should be used in parent route elements to render their child route elements. This allows nested UI to show up when child routes are rendered. If the     parent route matched exactly, it will render a child index route or nothing if there is no index route.<br>
   Reference: https://reactrouter.com/en/main/components/outlet
 
 `Link`<br>
