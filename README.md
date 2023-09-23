@@ -25,7 +25,9 @@ Array Methods:
 
 `Fragment`<br>
 
-`ReactComponent` - SVG as ReactComponent - https://stackoverflow.com/questions/72192810/what-is-reactcomponent-and-where-does-it-come-from-when-importing-an-svg-in-reac
+`ReactComponent` - if we are using CRA then to import an svg as a ReactComponent we use this.
+https://www.freecodecamp.org/news/how-to-import-svgs-in-react-and-vite/
+<br>SVG as ReactComponent - https://stackoverflow.com/questions/72192810/what-is-reactcomponent-and-where-does-it-come-from-when-importing-an-svg-in-reac
 
 `prop drilling` - passing data to the child/grandchild component from parent (any level).
 `React Context API` - https://react.dev/learn/passing-data-deeply-with-context
