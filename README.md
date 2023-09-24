@@ -51,6 +51,12 @@ https://www.freecodecamp.org/news/how-to-import-svgs-in-react-and-vite/
 `Link`<br>
 `Routes`<br>
 `Route`<br>
+
+`useNavigate` - The useNavigate hook returns a function that lets you navigate programmatically, for example in an effect: <br>
+The navigate function has two signatures: 
+1. Either pass a To value (same type as <Link to>) with an optional second options argument (similar to the props you can pass to <Link>), or
+2. Pass the delta you want to go in the history stack. For example, navigate(-1) is equivalent to hitting the back button
+
   # SCSS Topics
 
   `@mixin`<br>
