@@ -16,6 +16,8 @@ Array Methods:
 6. arr.slice([start], [end]) - It returns a new array copying to it all items from index start to end (not including end). Both start and end can be negative, in that case position from array end is assumed.
 7. arr.concat(arg1, arg2...)
 
+`Hashtables vs Arrays`- https://www.kirupa.com/html5/hashtables_vs_arrays.htm
+
 # React topics
 `Hooks` <br>
 1. useState
