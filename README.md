@@ -2,6 +2,7 @@
 `observer` - https://www.patterns.dev/posts
 
 # Javascript Topics
+`?? operator`: The nullish coalescing operator is written as two question marks ?? - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators <br>
 `Promise`<br>
 `async await`<br>
 `Debouncing`<br>
