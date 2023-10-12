@@ -7,6 +7,7 @@
 `async await`<br>
 `Debouncing`<br>
 `throttling`<br>
+`event bubbling`<br>
 `Arrays` <br>
 Array Methods:
 1. arr.pop()  – extracts an item from the end
@@ -33,8 +34,9 @@ Array Methods:
 https://www.freecodecamp.org/news/how-to-import-svgs-in-react-and-vite/
 <br>SVG as ReactComponent - https://stackoverflow.com/questions/72192810/what-is-reactcomponent-and-where-does-it-come-from-when-importing-an-svg-in-reac
 
-`prop drilling` - passing data to the child/grandchild component from parent (any level).
-`React Context API` - https://react.dev/learn/passing-data-deeply-with-context
+<br>`prop drilling` - passing data to the child/grandchild component from parent (any level).
+<br>`React Context API` - https://react.dev/learn/passing-data-deeply-with-context
+<br>`Render props` - https://engineering.dollarshaveclub.com/learn-render-props-by-example-da3e2524dd2e
 # React Router
 `element vs component`<br>
   In React Router v6 we switched from using v5's <Route component> and <Route render> APIs to <Route element>. Why is that?
@@ -61,6 +63,8 @@ The navigate function has two signatures:
 1. Either pass a To value (same type as <Link to>) with an optional second options argument (similar to the props you can pass to <Link>), or
 2. Pass the delta you want to go in the history stack. For example, navigate(-1) is equivalent to hitting the back button
 
+  # Reducers & Redux
+  `Reducer` - Reducer is a pattern for state management. A Reducer is a pure function that takes the state of an application and action as arguments and returns a new state
   # SCSS Topics
 
   `@mixin`<br>
