@@ -1,12 +1,20 @@
-# Pattern
+# Useful resources
+  1. https://dmitripavlutin.com/
+  2. https://architecturenotes.co/
+  3. https://dev.to/bitovi/how-to-build-a-micro-frontend-with-webpacks-module-federation-plugin-n41
+  4. https://webpack.js.org/concepts/module-federation/
+  5. https://stackblitz.com/github/webpack/webpack.js.org/tree/main/examples/module-federation?file=README.md&terminal=start&terminal=
+  6. https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/
+  
+# Design Pattern
 `observer` - https://www.patterns.dev/posts
+<br>https://github.com/torokmark/design_patterns_in_typescript
 
 # Javascript Topics
 `?? operator`: The nullish coalescing operator is written as two question marks ?? - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators <br>
 `Promise`<br>
 `async await`<br>
-`Debouncing`<br>
-`throttling`<br>
+`Debouncing & throttling` https://www.telerik.com/blogs/debouncing-and-throttling-in-javascript<br>
 `event bubbling`<br>
 `Arrays` <br>
 Array Methods:
@@ -20,12 +28,13 @@ Array Methods:
 8. arr.reduce((accumulator, currentValue) => accumulator + currentValue, initialValue);
 
 `Hashtables vs Arrays`- https://www.kirupa.com/html5/hashtables_vs_arrays.htm
-
+<br>`arrow vs regular function` - https://dmitripavlutin.com/differences-between-arrow-and-regular-functions/
 # React topics
 `Hooks` <br>
 1. useState
-2. useEffect
+2. useEffect - https://dmitripavlutin.com/react-useeffect-explanation/
 3. useContext & createContext
+4. useReducer
 <br>
 
 `Fragment`<br>
@@ -63,7 +72,7 @@ The navigate function has two signatures:
 1. Either pass a To value (same type as <Link to>) with an optional second options argument (similar to the props you can pass to <Link>), or
 2. Pass the delta you want to go in the history stack. For example, navigate(-1) is equivalent to hitting the back button
 
-  # Reducers & Redux
+  # Reducers
   `Reducer` - Reducer is a pattern for state management. A Reducer is a pure function that takes the state of an application and action as arguments and returns a new state
   # SCSS Topics
 
