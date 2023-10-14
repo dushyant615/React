@@ -16,6 +16,8 @@
 `async await`<br>
 `Debouncing & throttling` https://www.telerik.com/blogs/debouncing-and-throttling-in-javascript<br>
 `event bubbling`<br>
+`what is tree shaking? (js and react both)`<br>
+`what is starvation?`<br>
 `Arrays` <br>
 Array Methods:
 1. arr.pop()  – extracts an item from the end
