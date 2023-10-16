@@ -18,6 +18,8 @@
 `event bubbling`<br>
 `what is tree shaking? (js and react both)`<br>
 `what is starvation?`<br>
+`critical rendering path`<br>
+`objects methods`<br>
 `Arrays` <br>
 Array Methods:
 1. arr.pop()  – extracts an item from the end
