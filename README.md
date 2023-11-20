@@ -43,8 +43,8 @@ Array Methods:
 4. useReducer
 <br>
 
-`Fragment`<br> - 'key' attribute won't work inside fragment shortcut( <>  </>).
-`ReactComponent` - if we are using CRA then to import an svg as a ReactComponent we use this.
+<br>`Fragment` - 'key' attribute won't work inside fragment shortcut( <>  </>).
+<br>`ReactComponent` - if we are using CRA then to import an svg as a ReactComponent we use this.
 https://www.freecodecamp.org/news/how-to-import-svgs-in-react-and-vite/
 <br>SVG as ReactComponent - https://stackoverflow.com/questions/72192810/what-is-reactcomponent-and-where-does-it-come-from-when-importing-an-svg-in-reac
 
