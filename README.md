@@ -86,6 +86,10 @@ The navigate function has two signatures:
 
   # Reducers
   `Reducer` - Reducer is a pattern for state management. A Reducer is a pure function that takes the state of an application and action as arguments and returns a new state
+  # Redux
+  `Redux vs Context`-
+  <br> 1. Accessibility of data- redux will always wrap the entire application and while context will wrap the appropriate portions of the application and isolate the accessibility to only the children which is wrapped by the context provider.
+  <br> 2. Data Flow - with context and useReducer we have separate dispatch method for each context but redux store only have single dispatch and one root reducer.
   # SCSS Topics
 
   `@mixin`<br>
