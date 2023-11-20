@@ -19,6 +19,7 @@
 `what is tree shaking? (js and react both)`<br>
 `what is starvation?`<br>
 `critical rendering path`<br>
+`Higher order functions`<br>
 `objects methods`<br>
 `Arrays` <br>
 Array Methods:
@@ -34,6 +35,7 @@ Array Methods:
 `Hashtables vs Arrays`- https://www.kirupa.com/html5/hashtables_vs_arrays.htm
 <br>`arrow vs regular function` - https://dmitripavlutin.com/differences-between-arrow-and-regular-functions/
 # React topics
+`MVC vs React Flux architecture`<br>
 `Hooks` <br>
 1. useState
 2. useEffect - https://dmitripavlutin.com/react-useeffect-explanation/
@@ -41,8 +43,7 @@ Array Methods:
 4. useReducer
 <br>
 
-`Fragment`<br>
-
+`Fragment`<br> - 'key' attribute won't work inside fragment shortcut( <>  </>).
 `ReactComponent` - if we are using CRA then to import an svg as a ReactComponent we use this.
 https://www.freecodecamp.org/news/how-to-import-svgs-in-react-and-vite/
 <br>SVG as ReactComponent - https://stackoverflow.com/questions/72192810/what-is-reactcomponent-and-where-does-it-come-from-when-importing-an-svg-in-reac
@@ -50,6 +51,13 @@ https://www.freecodecamp.org/news/how-to-import-svgs-in-react-and-vite/
 <br>`prop drilling` - passing data to the child/grandchild component from parent (any level).
 <br>`React Context API` - https://react.dev/learn/passing-data-deeply-with-context
 <br>`Render props` - https://engineering.dollarshaveclub.com/learn-render-props-by-example-da3e2524dd2e
+<br>`Error Boundaries`-
+<br>`React Lazy` -
+<br>`HOC` -
+<br>`React Ref` -
+<br>`React portal`-
+
+
 # React Router
 `element vs component`<br>
   In React Router v6 we switched from using v5's <Route component> and <Route render> APIs to <Route element>. Why is that?
