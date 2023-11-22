@@ -95,6 +95,11 @@ The navigate function has two signatures:
 
    ![image](https://github.com/dushyant615/React/assets/56475253/be1dc263-f5fc-467e-904c-757998e6af02)
    ![image](https://github.com/dushyant615/React/assets/56475253/02a3a4b1-7d16-4070-9bfa-7311d98c2d5c)
+  ## redux
+  <br>`compose`
+  <br>`legacy_createStore` as `createStore`
+  <br>`applyMiddleware`
+  <br>`combineReducers`
   ## react-redux
   <br>`Provider`
   <br>`useDispatch`
