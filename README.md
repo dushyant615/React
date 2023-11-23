@@ -108,3 +108,6 @@ The navigate function has two signatures:
 
   `@mixin`<br>
   `$variables`<br>
+
+  # extras
+  lecture 160 and 161 middleware of section14(redux) imp
