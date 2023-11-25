@@ -104,6 +104,9 @@ The navigate function has two signatures:
   <br>`Provider`
   <br>`useDispatch`
   <br>`useSelector` - allows a component to interact with redux store
+
+  ## Reselect - 
+  A library for creating memoized "selector" functions. Commonly used with Redux, but usable  with any plain JS immutable data as well.
   # SCSS Topics
 
   `@mixin`<br>
