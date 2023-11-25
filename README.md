@@ -113,4 +113,5 @@ The navigate function has two signatures:
   `$variables`<br>
 
   # extras
-  lecture 160 and 161 middleware of section14(redux) imp
+  lecture 160 and 161 middleware of section14(redux) imp.
+  lecture 164 reselect library imp
