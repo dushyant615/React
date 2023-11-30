@@ -107,6 +107,11 @@ The navigate function has two signatures:
 
   ## Reselect - 
   A library for creating memoized "selector" functions. Commonly used with Redux, but usable  with any plain JS immutable data as well.
+  
+  `createSelector`(...inputSelectors | [inputSelectors], resultFunc, createSelectorOptions?) -<br>
+    Accepts one or more "input selectors" (either as separate arguments or a single array), a single "result function", and an optional options object, and generates a memoized selector function.<br>
+    resultFunc -A function that takes the results of the input selectors as separate arguments.
+    
   # SCSS Topics
 
   `@mixin`<br>
