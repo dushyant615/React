@@ -112,7 +112,7 @@ The navigate function has two signatures:
     Accepts one or more "input selectors" (either as separate arguments or a single array), a single "result function", and an optional options object, and generates a memoized selector function.<br>
     resultFunc -A function that takes the results of the input selectors as separate arguments.
   ## Redux-persist - 
-Redux Persist is a tool used to seamlessly save the application's Redux state object to localStorage, sessionStorage, AsyncStorage . On app launch, Redux Persist retrieves this persisted state and saves it back to Redux.<br>
+Redux Persist is a tool used to seamlessly save the application's Redux state object to localStorage, sessionStorage, AsyncStorage . On app launch, Redux Persist retrieves this persisted state and saves it back to Redux i.e it rehydrate the state<br>
   [refer](https://stackoverflow.com/questions/49222396/why-use-redux-persist-over-manually-persisting-state-to-localstorage)<br>
   [npmRepo](https://www.npmjs.com/package/redux-persist)<br>
   [githubRepo](https://github.com/rt2zz/redux-persist)<br>
