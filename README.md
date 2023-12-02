@@ -118,7 +118,7 @@ Redux Persist is a tool used to seamlessly save the application's Redux state ob
   [githubRepo](https://github.com/rt2zz/redux-persist)<br>
 
   ## Redux-thunk -
-  ![image](https://github.com/dushyant615/React/assets/56475253/93d4c901-bfa9-4e7b-af5b-75ddaf144c83)
+  ![image](https://github.com/dushyant615/React/assets/56475253/93d4c901-bfa9-4e7b-af5b-75ddaf144c83) 
 
   # SCSS Topics
 
