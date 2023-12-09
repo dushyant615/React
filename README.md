@@ -5,6 +5,7 @@
   4. https://webpack.js.org/concepts/module-federation/
   5. https://stackblitz.com/github/webpack/webpack.js.org/tree/main/examples/module-federation?file=README.md&terminal=start&terminal=
   6. https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/
+  7. https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif
   
 # Design Pattern
 [observer](https://www.patterns.dev/posts)
