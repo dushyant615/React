@@ -13,6 +13,7 @@
 
 # Javascript Topics
 `?? operator`: The nullish coalescing operator is written as two question marks ?? - [Refer](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators) <br>
+`generator functions`<br>
 `Promise`<br>
 `async await`<br>
 `Debouncing & throttling` [Refer](https://www.telerik.com/blogs/debouncing-and-throttling-in-javascript)<br>
