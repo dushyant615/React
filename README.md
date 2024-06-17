@@ -156,6 +156,7 @@ Redux Persist is a tool used to seamlessly save the application's Redux state ob
   }
   type Address = CanadianAddress | USAddress;
   ```
+  Functional programming mostly uses `types` and OOP uses `interfaces`.
   # extras
   lecture 160 and 161 middleware of section14(redux) imp.
   lecture 164 reselect library imp
