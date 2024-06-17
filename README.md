@@ -133,19 +133,29 @@ Redux Persist is a tool used to seamlessly save the application's Redux state ob
 
   # Typescript
   `type vs interface` <br>
-  both type and interface are similar, only key difference is that types can not be extended and overloaded just like interfaces.
+  both type and interface are similar, only key difference is that types can not be extended and overloaded just like interfaces, but it allows us to create a union(combination of types)
   example:- 
   ```
   interface IDemo {
-      name: string,
-      address: string
+      name: string;
+      address: string;
   }
   interface IDemo {
-      city: string
+      city: string;
   }
   ```
   In the above example typescript will overload the first interface.
-  
+  ```
+  type CanadianAddress {
+    street: string;
+    province: string;
+  }
+  type USAddress {
+    street: string;
+    state: string;
+  }
+  type Address = CanadianAddress | USAddress;
+  ```
   # extras
   lecture 160 and 161 middleware of section14(redux) imp.
   lecture 164 reselect library imp
